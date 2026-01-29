@@ -10,7 +10,7 @@ Hosting third-party resources for MontageSubs for stable hosting and reduced ext
 
 ### Usage
 - Link assets via GitHub Pages or raw URLs, e.g.:
-  - ```https://raw.githubusercontent.com/MontageSubs/external-assets/main/icons/MontageSubs/favicon.png```
+  - ```https://raw.githubusercontent.com/MontageSubs/external-assets/main/icons/<provider>/<filename>```
 
 ### Guidelines
 - Only small-scale display assets are hosted here (icons, thumbnails, placeholders). Large copyrighted posters or high-resolution artwork are not hosted.
